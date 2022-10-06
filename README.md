@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilkayturan
-- 👀 I’m interested in game development.
+- 👀 I’m interested in web & game development.
 - 🌱 I’m currently learning unity, ue4, ags, godot.
 - 💞️ I’m looking to collaborate on c#, python.
 - 📫 How to reach me twitter.com/ilkaytobello
